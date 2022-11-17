@@ -12,4 +12,6 @@
 - First command line argumennt is also referred to as am option   
 - Command + Space brings up Spotlighht and then you can search for -Terminal- and it will load
 - A great shortcvut in Terminal is the up arrow as that accesses the history of all the    shortcuts thzt you have used during the active session
-- 
+
+# **Things I Want To Know More About**
+1. I would like to learn more about Linux
