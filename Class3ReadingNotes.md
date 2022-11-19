@@ -13,4 +13,3 @@
 3. Is fully integrated with **VS Code**and allows you to load a repository from your system straight into a VS Code environment
 
 ### Things that I want to Know More About
-
