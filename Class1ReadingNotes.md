@@ -6,8 +6,10 @@
 ## __Features of a Good Text Editor__
 
 1. __Code completion__ is the one of the most important feature considerartions when picking any text editor as the function allows for a couple of nkeys to be typed and it will offer a library of code option suggestions to the developer.
-2. __Syntax highlighting__ this feature makes it faster to type because it will make text different colors. For example it will make attributes different colors than elements.
-3. Nice varitey of themes
+
+4. __Syntax highlighting__ this feature makes it faster to type because it will make text different colors. For example it will make attributes different colors than elements.
+
+6. Nice varitey of themes
 
 ## Terminal Readings and Short Cuts
 
