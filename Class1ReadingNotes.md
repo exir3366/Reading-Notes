@@ -1,9 +1,4 @@
-[Class1ReadingNotes.md](https://github.com/exir3366/reading-notes/files/10049382/Class1ReadingNotes.md)
-[ControlFlowFunctionsOperators.md](https://github.com/exir3366/reading-notes/files/10049383/ControlFlowFunctionsOperators.md)
-[GrowthMindset.md](https://github.com/exir3366/reading-notes/files/10049384/GrowthMindset.md)
-[JavaScriptReading1.md](https://github.com/exir3366/reading-notes/files/10049386/JavaScriptReading1.md)
-[Read01LearningMarkDown.md](https://github.com/exir3366/reading-notes/files/10049387/Read01LearningMarkDown.md)
-[StructureWebPageswHTML.md](https://github.com/exir3366/reading-notes/files/10049388/StructureWebPageswHTML.md)
+
 # Text Editor Reading Notes
 - Choosing the right text editor is a matter of choice as to what you feel gets the job done and the job done right
 - There are some characteristics that should be considered when picking out the right text editor for the aspiring web developer
