@@ -27,7 +27,7 @@ Some Best Practices:
 
 * Tip: If things don't appear the way you expect, double check that you've indented the elements in the list four spaces or one tab.
 
-+ You can use two or more spaces (commonly referred to as “trailing whitespace”) for line breaks in nearly every Markdown application, but it’s controversial. It’s hard to see trailing whitespace in an editor, and many people accidentally or intentionally put two spaces after every sentence. For this reason, you may want to use something other than trailing whitespace for line breaks. If your Markdown application supports HTML, you can use the <br> HTML tag.
++ You can use two or more spaces (commonly referred to as “trailing whitespace”) for line breaks in nearly every Markdown application, but it’s controversial. It’s hard to see trailing whitespace in an editor, and many people accidentally or intentionally put two spaces after every sentence. For this reason, you may want to use something other than trailing whitespace for line breaks. If your Markdown application supports HTML, you can use the <br> HTML tag.  
 
 credit (https://www.markdownguide.org/basic-syntax/#line-breaks) and (https://www.markdownguide.org/basic-syntax/#lists-1)  
 
