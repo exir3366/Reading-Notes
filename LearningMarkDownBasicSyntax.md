@@ -21,7 +21,7 @@ There are a few different ways to stylize your text with mark down
 There are also ways to present your data as in unordered lists
 One of the things that you can do with mark down is also create links to different web addresses like (https://wwww.google.com)
 
-Some Best Practices: (https://www.markdownguide.org/basic-syntax/#line-breaks) and (https://www.markdownguide.org/basic-syntax/#lists-1)
+Some Best Practices: 
 
 a>
 + To add another element in a list while preserving the continuity of the list, indent the element four spaces or one tab, as shown in the following examples.
@@ -29,11 +29,13 @@ a>
 a> 
 + You can use two or more spaces (commonly referred to as “trailing whitespace”) for line breaks in nearly every Markdown application, but it’s controversial. It’s hard to see trailing whitespace in an editor, and many people accidentally or intentionally put two spaces after every sentence. For this reason, you may want to use something other than trailing whitespace for line breaks. If your Markdown application supports HTML, you can use the <br> HTML tag.
 
+credit (https://www.markdownguide.org/basic-syntax/#line-breaks) and (https://www.markdownguide.org/basic-syntax/#lists-1)  
 
+### Things that I want to Learn More About  
 
-
-### Things that I want to Learn More About
 1. I would like to learn a lot more about Github Pages
 
 2. I would like to learn a lot more about how to get good using mark down on 
 Git Hub
+
+
