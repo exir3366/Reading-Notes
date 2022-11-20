@@ -4,14 +4,12 @@
 
 ### Code 102 Notes
 
-* [Class1ReadingNotes.md](102/Class1ReadingNotes.md)
-* [Class2ReadingNotes.md](102/Class2ReadingNotes.md)
-* [Class3ReadingNotes.md](102/Class3ReadingNotes.md)
-* [Class4ReadingNotes](102/Class4ReadingNotes.md)
-* [Class5ReadingNotes](102/Class5ReadingNotes.md)
-* [Class6ReadingNotes](102/Class6ReadingNotes.md)
-* [Class7ReadingNotes](102/Class7ReadingNotes.md)
-* [Class8ReadingNotes](102/Class8ReadingNotes.md)
+[Class1ReadingNotes.md](https://github.com/exir3366/reading-notes/files/10049382/Class1ReadingNotes.md)
+[ControlFlowFunctionsOperators.md](https://github.com/exir3366/reading-notes/files/10049383/ControlFlowFunctionsOperators.md)
+[GrowthMindset.md](https://github.com/exir3366/reading-notes/files/10049384/GrowthMindset.md)
+[JavaScriptReading1.md](https://github.com/exir3366/reading-notes/files/10049386/JavaScriptReading1.md)
+[Read01LearningMarkDown.md](https://github.com/exir3366/reading-notes/files/10049387/Read01LearningMarkDown.md)
+[StructureWebPageswHTML.md](https://github.com/exir3366/reading-notes/files/10049388/StructureWebPageswHTML.md)
 
 ### Code 201 Notes
 
