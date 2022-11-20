@@ -1,5 +1,13 @@
-# Text Editor Reading Notes
+# Text Editor Reading NotesClass1ReadingNotes.md
+Class3ReadingNotes
+ControlFlowFunctionsOperators.md
+GrowthMindset.md
+https-exir3366.github.io-reading-notes-
+JavaScriptReading1.md
+Read01LearningMarkDown.md
+reading-notes
 
+StructureWebPageswHTML.md
 - Choosing the right text editor is a matter of choice as to what you feel gets the job done and the job done right
 - There are some characteristics that should be considered when picking out the right text editor for the aspiring web developer
 
