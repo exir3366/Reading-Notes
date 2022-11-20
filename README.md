@@ -4,7 +4,7 @@
 
 ### Code 102 Notes
 
-• [Class1ReadingNotes.md](https://github.com/exir3366/reading-notes/Class1ReadingNotes.md)
+• [Class1ReadingNotes.md](https://github.com/exir3366/Class1ReadingNotes.md)
 • [ControlFlowFunctionsOperators.md](https://github.com/exir3366/reading-notes/files/10049383/ControlFlowFunctionsOperators.md)
 * [GrowthMindset.md](https://github.com/exir3366/reading-notes/files/10049384/GrowthMindset.md)
 • [JavaScriptReading1.md](https://github.com/exir3366/reading-notes/files/10049386/JavaScriptReading1.md)
