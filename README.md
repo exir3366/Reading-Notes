@@ -4,9 +4,9 @@
 
 ### Code 102 Notes
 
-* [Class1ReadingNotes](102/Class1ReadingNotes.md)
-* [Class2ReadingNotes](102/Class2ReadingNotes.md)
-* [Class3ReadingNotes](102/Class3ReadingNotes.md)
+* [Class1ReadingNotes.md](102/Class1ReadingNotes.md)
+* [Class2ReadingNotes.md](102/Class2ReadingNotes.md)
+* [Class3ReadingNotes.md](102/Class3ReadingNotes.md)
 * [Class4ReadingNotes](102/Class4ReadingNotes.md)
 * [Class5ReadingNotes](102/Class5ReadingNotes.md)
 * [Class6ReadingNotes](102/Class6ReadingNotes.md)
