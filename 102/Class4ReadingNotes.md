@@ -1,5 +1,5 @@
 # More on HTML
-a > 
+a>
 ## Anatomy of an HTML element
 
 _Let's explore this paragraph element a bit further.
