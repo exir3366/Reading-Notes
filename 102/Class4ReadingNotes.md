@@ -2,7 +2,7 @@
 
  ## Anatomy of an HTML element
 
-__ Let's explore this paragraph element a bit further.
+Let's explore this paragraph element a bit further.
 
 **paragraph element** including opening tag, content reading 'my cat is very grumpy', and a closing tag
 
