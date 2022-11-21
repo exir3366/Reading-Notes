@@ -1,8 +1,8 @@
 # More on HTML
 
-a > ## Anatomy of an HTML element
+ ## Anatomy of an HTML element
 
-_Let's explore this paragraph element a bit further.
+__Let's explore this paragraph element a bit further.
 
 **paragraph element** including opening tag, content reading 'my cat is very grumpy', and a closing tag
 
