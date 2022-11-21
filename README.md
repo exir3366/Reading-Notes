@@ -8,10 +8,10 @@
 * [Class2ReadingNotes.md](102/Class2ReadingNotes.md)
 * [Class3ReadingNotes.md](102/Class3ReadingNotes.md)
 * [Clasas4ReadingNotes.md](102/Clasas4ReadingNotes.md)
-* [Clasas5ReadingNotes.md](102/Clasas4ReadingNotes.md)
-* [Clasas6ReadingNotes.md](102/Clasas4ReadingNotes.md)
-* [Clasas7ReadingNotes.md](102/Clasas4ReadingNotes.md)
-* [Clasas8ReadingNotes.md](102/Clasas4ReadingNotes.md)
+* [Clasas5ReadingNotes.md](102/Clasas5ReadingNotes.md)
+* [Clasas6ReadingNotes.md](102/Clasas6ReadingNotes.md)
+* [Clasas7ReadingNotes.md](102/Clasas7ReadingNotes.md)
+* [Clasas8ReadingNotes.md](102/Clasas8ReadingNotes.md)
 
 ### Code 201 Notes
 
