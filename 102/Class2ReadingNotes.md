@@ -8,7 +8,7 @@ Syntax highlighting this feature makes it faster to type because it will make te
 
 ### Nice varitey of themes
 
-** Terminal Readings and Short Cuts
+* Terminal Readings and Short Cuts *
 - First thing generally entered into a shell is a command and this comes after a prompt
 - After a command comes what are called command line arguments
 - First command line argumennt is also referred to as am option
