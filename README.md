@@ -4,14 +4,14 @@
 
 ### Code 102 Notes
 
-* [Class1ReadingNotes.md](102/Class1ReadingNotes.md)
-* [Class2ReadingNotes.md](102/Class2ReadingNotes.md)
-* [Class3ReadingNotes.md](102/Class3ReadingNotes1.md)
-* [Class4ReadingNotes.md](102/Class4ReadingNotes.md)
-* [Class5ReadingNotes.md](102/Class5ReadingNotes.md)
-* [Class6ReadingNotes.md](102/Class6ReadingNotes.md)
-* [Class7ReadingNotes.md](102/Class7ReadingNotes.md)
-* [Class8ReadingNotes.md](102/Class8ReadingNotes.md)
+1. * [**Class1ReadingNotes.md**](102/Class1ReadingNotes.md)
+2. * [Class2ReadingNotes.md](102/Class2ReadingNotes.md)
+3. * [Class3ReadingNotes.md](102/Class3ReadingNotes1.md)
+4. * [Class4ReadingNotes.md](102/Class4ReadingNotes.md)
+5. * [Class5ReadingNotes.md](102/Class5ReadingNotes.md)
+6. * [Class6ReadingNotes.md](102/Class6ReadingNotes.md)
+7. * [Class7ReadingNotes.md](102/Class7ReadingNotes.md)
+8. * [Class8ReadingNotes.md](102/Class8ReadingNotes.md)
 
 ### Code 201 Notes
 
